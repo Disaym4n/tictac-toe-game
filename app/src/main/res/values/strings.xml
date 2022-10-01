@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="one_player">One Player</string>
+    <string name="two_players">Two Players</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="X">X</string>
+    <string name="TODO">TODO</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+    <string name="O">O</string>
+    <string name="oO">O</string>
+    <string name="xX">X</string>
+    <string name="XX">X</string>
+    <string name="Oo">O</string>
+    <string name="Xx">X</string>
+</resources>
